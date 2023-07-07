@@ -30,6 +30,6 @@ By Hyun Chun, Vishwa Murugappan, and Shreyas Sundar
 
 #
 
-Our team used GDP Growth, GDP per Capita, Population Growth, Unemployment, and Inflation as our primary metrics for this project.
+Our team used GDP Growth, GDP per Capita, Population Growth, Unemployment, and Inflation as our primary metrics for this project. Download all datasets as provided in the repository.
 
 Using Jupyter Notebook or Deepnote, run Final Nats Code.ipynb to get desired forecasting result for graphs.
